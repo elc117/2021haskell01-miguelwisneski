@@ -24,3 +24,6 @@ svgAll =
 main :: IO ()
 main = do
   writeFile "circles.svg" svgAll
+
+https://www.w3schools.com/code/tryit.asp?filename=GRAM0SJP8UGW
+
